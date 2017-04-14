@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C5C4456D-C6E9-4DD5-8C68-E4423283F504}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ria_musicstore/Controllers/StoreController.cs">
+    <Files>
+      <File FileName="ria_musicstore/Controllers/StoreController.cs" Line="24" Column="34" />
+      <File FileName="ria_musicstore/Views/Shared/_Layout.cshtml" Line="8" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ria__musicstore PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
