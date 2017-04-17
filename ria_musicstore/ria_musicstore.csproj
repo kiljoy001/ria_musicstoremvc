@@ -113,6 +113,8 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\jquery-3.2.0.min.js" />
     <Content Include="Views\Store\Details.cshtml" />
+    <Content Include="Views\Store\Browse.cshtml" />
+    <Content Include="Views\Store\Index.cshtml" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>

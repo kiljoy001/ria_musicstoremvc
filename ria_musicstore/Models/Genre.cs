@@ -1,5 +1,4 @@
-﻿using System;
-namespace ria_musicstore
+﻿namespace ria_musicstore.Models
 {
 	public class Genre
 	{
