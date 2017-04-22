@@ -1,12 +1,7 @@
 ﻿<Properties StartupConfiguration="{C5C4456D-C6E9-4DD5-8C68-E4423283F504}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ria_musicstore/Views/Store/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ria_musicstore/Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="ria_musicstore/Views/Store/Details.cshtml" Line="9" Column="1" />
-      <File FileName="ria_musicstore/Controllers/StoreController.cs" Line="8" Column="3" />
-      <File FileName="ria_musicstore/Views/Store/Browse.cshtml" Line="9" Column="1" />
-      <File FileName="ria_musicstore/Models/Genre.cs" Line="11" Column="1" />
-      <File FileName="ria_musicstore/Views/Shared/_Layout.cshtml" Line="11" Column="19" />
-      <File FileName="ria_musicstore/Views/Store/Index.cshtml" Line="9" Column="5" />
+      <File FileName="ria_musicstore/Views/Shared/_Layout.cshtml" Line="22" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
